@@ -5,7 +5,7 @@
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
-* Docs: <https://docs.opencv.org/4.x/>
+* Documentation: <https://docs.opencv.org/4.x/>
 * Q&A forum: <https://forum.opencv.org>
   * previous forum (read only): <http://answers.opencv.org>
 * Issue tracking: <https://github.com/opencv/opencv/issues>
@@ -19,10 +19,10 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 
 #### Summary of the guidelines:
 
-* One pull request per issue;
-* Choose the right base branch;
-* Include tests and documentation;
-* Clean up "oops" commits before submitting;
+* One pull request per issue.
+* Choose the right base branch.
+* Include tests and documentation.
+* Clean up "oops" commits before submitting.
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
 
 ### Additional Resources
@@ -34,3 +34,4 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * [Follow OpenCV on Mastodon](http://mastodon.social/@opencv) in the Fediverse
 * [Follow OpenCV on Twitter](https://twitter.com/opencvlive)
 * [OpenCV.ai](https://opencv.ai): Computer Vision and AI development services from the OpenCV team.
+
